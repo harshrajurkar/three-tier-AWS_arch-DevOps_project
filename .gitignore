@@ -1,3 +1,4 @@
 .terraform/
 .terraform/providers/registry.terraform.io/hashicorp/aws/5.70.0/linux_amd64/terraform-provider-aws_v5.70.0_x5
 .terraform.lock.hcl
+/media/harsh/5270e5db-33f5-4d5a-9aa7-fa4bde40d085/harsh/devops/3-tier_using_ devops/.terraform/providers/registry.terraform.io/hashicorp/aws/5.70.0/linux_amd64/terraform-provider-aws_v5.70.0_x5
